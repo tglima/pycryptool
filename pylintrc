@@ -1,0 +1,6 @@
+[FORMAT]
+max-line-length=180
+
+[MASTER]
+disable=missing-module-docstring
+disable=missing-class-docstring
