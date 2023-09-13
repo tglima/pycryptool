@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800"
+   height="800"
+   viewBox="-4 0 32 32"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="encrypt.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.83875"
+     inkscape:cx="299.85097"
+     inkscape:cy="401.19225"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     inkscape:window-x="74"
+     inkscape:window-y="932"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="Lager_45"
+     data-name="Lager 45"
+     transform="translate(-4,-3.1183561e-4)"
+     style="fill:#ffffff">
+    <g
+       id="Group_16"
+       data-name="Group 16"
+       style="fill:#ffffff">
+      <path
+         id="Path_53"
+         data-name="Path 53"
+         d="M 26,12 H 24 V 7 H 23.931 A 7.993,7.993 0 0 0 8.069,7 H 8 v 5 H 6 a 2,2 0 0 0 -2,2 v 16 a 2,2 0 0 0 2,2 h 20 a 2,2 0 0 0 2,-2 V 14 A 2,2 0 0 0 26,12 Z M 12,8 a 4,4 0 0 1 8,0 v 4 H 12 Z M 23,28 H 9 A 1,1 0 0 1 8,27 V 17 a 1,1 0 0 1 1,-1 h 14 a 1,1 0 0 1 1,1 v 10 a 1,1 0 0 1 -1,1 z"
+         fill="#040505"
+         style="fill:#ffffff" />
+      <circle
+         id="Ellipse_1"
+         data-name="Ellipse 1"
+         cx="2"
+         cy="2"
+         r="2"
+         transform="translate(14,20)"
+         fill="#040505"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
