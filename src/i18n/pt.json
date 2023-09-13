@@ -1,0 +1,59 @@
+{
+    "nm_app": "PyCryptool",
+    "key_pass": "Palavra passe",
+    "select_language": "Selecionar idioma",
+    "about": "Sobre",
+    "settings": "Configurações",
+    "go_back": "Voltar",
+    "yes": "Sim",
+    "no": "Não",
+    "settings_saved": "Configurações salvas com sucesso",
+    "error_txt_empty": "O texto informado está vazio!",
+    "error_lang_required": "Obrigatório selecionar um idioma",
+    "encrypt_txt": "Texto Criptografado",
+    "decrypt_txt": "Texto Descriptografado",
+    "input_text": "Informe um texto abaixo e clique no botão correspondente a sua escolha",
+    "error_input_txt": "Não foi possível {value} o texto informado!",
+    "error_invalid_txt": "O texto informado é inválido!",
+    "has_error": "Ocorreu um erro. ",
+    "alert": "Alerta",
+    "error": "Erro",
+    "success": "Sucesso",
+    "close": "Fechar",
+    "encrypt": "Criptografar",
+    "decrypt": "Descriptografar",
+    "result": "Resultado",
+    "copy_txt": "Copiar Texto",
+    "clear_txt": "Limpar Texto",
+    "clear_response": "Limpar Resposta",
+    "txt_copied_success": "Texto copiado com sucesso!",
+    "copyright": "Copyright: ",
+    "copyright_txt": "© 2023 Thiago Lima de Sousa.",
+    "visit": "Visite: ",
+    "github_link": "https://github.com/tglima/pycryptool",
+    "linkWiki": "https://github.com/tglima/pycryptool/wiki",
+    "version": "Versão: ",
+    "license": "Licença: ",
+    "license_txt": "O código fonte desta aplicação está sob Licença MIT, todo o restante deve ser considerado conteúdo registrado dos seus respectivos proprietários e desenvolvedores.",
+    "keyword_tooltip": "A palavra-passe é utilizada como uma chave para criptografar/descriptografar um texto. Por padrão, a aplicação já utiliza uma palavra-passe padrão. Caso você queira utilizar uma personalizada, essa chave deve conter 20 caracteres. Atenção: espaços não são considerados válidos.",
+    "keyword_warning": "Sem a palavra chave correta não será possível descriptografar o texto!",
+    "save": "Salvar",
+    "password_saved": "Nova palavra passe salva com sucesso!",
+    "translators": "Tradutor(es) do Idioma: ",
+    "translators_name": "Thiago Lima de Sousa",
+    "error_open_site": "Ocorreu um erro e não foi possível abri o site: ",
+    "languages": [
+        {
+            "lang": "Selecionar",
+            "value": null
+        },
+        {
+            "lang": "Inglês",
+            "value": "en"
+        },
+        {
+            "lang": "Português",
+            "value": "pt"
+        }
+    ]
+}
